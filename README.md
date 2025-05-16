@@ -2,9 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/9369d92b-2a38-441e-afae-66cbafc42bd7
-
-
+**URL**:(https://honey-web-delight.lovable.app/)
 **Use your preferred IDE**
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
